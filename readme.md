@@ -6,3 +6,7 @@
 * dotnet add .
 * dotnet commit -m "SOME COMMENT TEXT"
 * dotnet push
+
+# Второй шаг (настройка конфигурации)
+* создать appsettings.json
+* создать файлы в подпапке /Settings
